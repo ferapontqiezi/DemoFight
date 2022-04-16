@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("华中科技大学")]
 [assembly: AssemblyProduct("DemoFight")]
-[assembly: AssemblyCopyright("Copyright © 华中科技大学 2014")]
+[assembly: AssemblyCopyright("Copyright © 华中科技大学 2022")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

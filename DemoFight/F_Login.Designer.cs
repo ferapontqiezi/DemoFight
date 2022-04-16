@@ -178,7 +178,7 @@
             this.TB_User1.Name = "TB_User1";
             this.TB_User1.Size = new System.Drawing.Size(144, 39);
             this.TB_User1.TabIndex = 4;
-            this.TB_User1.Text = "俊辉";
+            this.TB_User1.Text = "川哥";
             // 
             // TB_User2
             // 
@@ -187,7 +187,7 @@
             this.TB_User2.Name = "TB_User2";
             this.TB_User2.Size = new System.Drawing.Size(144, 39);
             this.TB_User2.TabIndex = 5;
-            this.TB_User2.Text = "川哥";
+            this.TB_User2.Text = "俊辉";
             // 
             // label4
             // 

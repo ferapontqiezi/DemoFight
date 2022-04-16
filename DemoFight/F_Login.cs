@@ -28,6 +28,10 @@ namespace DemoFight
                     return new LazySaint();
                 case 2:
                     return new LazyGhost();
+                case 3:
+                    return new Tfat();
+                case 4:
+                    return new Thin();
                 default:
                     return null;
             }
